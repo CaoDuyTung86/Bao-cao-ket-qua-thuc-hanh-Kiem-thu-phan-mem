@@ -25,3 +25,26 @@ unit-test/test/StudentAnalyzerTest.java unit-test/README.md
 3.2 Cài đặt lớp StudentAnalyzer
 
 Lớp StudentAnalyzer được xây dựng để xử lý dữ liệu điểm số. Trong quá trình cài đặt: -Sử dụng vòng lặp for để duyệt danh sách -Áp dụng điều kiện kiểm tra để loại bỏ dữ liệu không hợp lệ -Đảm bảo chương trình không phát sinh lỗi khi danh sách rỗng
+<img width="608" height="597" alt="image" src="https://github.com/user-attachments/assets/847452ae-e6c6-4807-a4a8-a9222f29433d" />
+4. KIỂM THỬ ĐƠN VỊ VỚI JUNIT
+4.1 Giới thiệu JUnit
+
+JUnit là một framework phổ biến dùng để kiểm thử đơn vị trong Java, giúp phát hiện lỗi sớm và đảm bảo chất lượng phần mềm.
+
+4.2 Các trường hợp kiểm thử
+
+-Các ca kiểm thử được xây dựng bao gồm: -Trường hợp bình thường -Danh sách có điểm hợp lệ và không hợp lệ -Trường hợp biên -Danh sách rỗng -Danh sách chỉ chứa 0 hoặc 10 -Trường hợp ngoại lệ -Điểm âm hoặc lớn hơn 10
+
+4.3 Kết quả kiểm thử
+
+-Kết quả chạy kiểm thử: -Tất cả các test case đều PASS -Chương trình hoạt động đúng theo yêu cầu đề bài
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/13c8c5d8-43df-4c10-bac8-4e0f7e3bf7b3" />
+
+5. QUẢN LÝ MÃ NGUỒN VỚI GITHUB
+5.1 Sử dụng Issue
+
+Đã tạo các Issue để quản lý công việc: -Issue #1: Viết hàm countExcellentStudents -Issue #2: Viết hàm calculateValidAverage -Issue #3: Viết kiểm thử đơn vị -Issue #4: Viết README
+
+5.2 Gắn commit với Issue
+
+Trong quá trình commit, sinh viên sử dụng cú pháp #issue_number, fixes, closes để liên kết commit với Issue tương ứng. Ví dụ: "feat: implement calculateValidAverage() closes #2"
