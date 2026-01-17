@@ -26,6 +26,7 @@ unit-test/test/StudentAnalyzerTest.java unit-test/README.md
 
 Lớp StudentAnalyzer được xây dựng để xử lý dữ liệu điểm số. Trong quá trình cài đặt: -Sử dụng vòng lặp for để duyệt danh sách -Áp dụng điều kiện kiểm tra để loại bỏ dữ liệu không hợp lệ -Đảm bảo chương trình không phát sinh lỗi khi danh sách rỗng
 <img width="608" height="597" alt="image" src="https://github.com/user-attachments/assets/847452ae-e6c6-4807-a4a8-a9222f29433d" />
+
 4. KIỂM THỬ ĐƠN VỊ VỚI JUNIT
 4.1 Giới thiệu JUnit
 
