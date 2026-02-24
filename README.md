@@ -49,3 +49,6 @@ JUnit là một framework phổ biến dùng để kiểm thử đơn vị trong
 5.2 Gắn commit với Issue
 
 Trong quá trình commit, sinh viên sử dụng cú pháp #issue_number, fixes, closes để liên kết commit với Issue tương ứng. Ví dụ: "feat: implement calculateValidAverage() closes #2"
+
+Bài thực hành 3:
+<img width="1918" height="1031" alt="image" src="https://github.com/user-attachments/assets/d14f73f8-db31-463e-9370-ec9caffd607e" />
