@@ -52,3 +52,6 @@ Trong quá trình commit, sinh viên sử dụng cú pháp #issue_number, fixes,
 
 Bài thực hành 3:
 <img width="1918" height="1031" alt="image" src="https://github.com/user-attachments/assets/d14f73f8-db31-463e-9370-ec9caffd607e" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/059fbf60-6c2d-4ce1-b060-16790eeb783a" />
+
+
